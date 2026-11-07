@@ -1,0 +1,180 @@
+
+{
+  "documents": [
+    {
+      "id": "personal-profile",
+      "category": "profile",
+      "title": "About Ajil Saji",
+      "content": "Ajil Saji, also known as Aju, is a self-taught software developer from Kottayam, Kerala, India. He is passionate about building modern applications, from mobile applications to full-stack systems. He enjoys turning ideas into practical products and continuously learning new technologies. His interests include artificial intelligence, cloud systems, scalable backend development and software engineering. Outside technology, he enjoys drawing, football and cricket.",
+      "keywords": ["Ajil", "Aju", "about", "profile", "introduction", "developer", "Kottayam", "Kerala", "hobbies", "drawing", "football", "cricket"]
+    },
+    {
+      "id": "education-bca",
+      "category": "education",
+      "title": "Bachelor of Computer Applications",
+      "content": "Ajil completed his Bachelor of Computer Applications (BCA) from BVM Holy Cross College, Cherpunkal, Kerala. His undergraduate education provided a foundation in computer applications, programming and software development. He completed his graduation in 2026.",
+      "keywords": ["BCA", "degree", "graduation", "college", "BVM", "Holy Cross", "Cherpunkal", "education", "university"]
+    },
+    {
+      "id": "education-higher-secondary",
+      "category": "education",
+      "title": "Higher Secondary Education",
+      "content": "Ajil completed his Plus One and Plus Two higher secondary education at SMV Higher Secondary School (SMV HSS), Poonjar, Kerala.",
+      "keywords": ["Plus One", "Plus Two", "11th", "12th", "higher secondary", "SMV HSS", "Poonjar", "school"]
+    },
+    {
+      "id": "education-school",
+      "category": "education",
+      "title": "Secondary School Education",
+      "content": "Ajil completed his 10th standard at SMGHS, Chennadu, Kerala.",
+      "keywords": ["10th", "SSLC", "secondary education", "school", "SMGHS", "Chennadu"]
+    },
+    {
+      "id": "tcs-experience",
+      "category": "experience",
+      "title": "Tata Consultancy Services - Graduate Trainee",
+      "content": "After completing his graduation, Ajil was selected by Tata Consultancy Services (TCS) as a Graduate Trainee. He completed a four-month training period in Chennai. During this training journey, he developed his technical knowledge and worked on projects as part of the Ignite training program. His training included software development concepts and technologies such as Java, Python, web development, Angular, AI and machine learning, and DevOps concepts.",
+      "keywords": ["TCS", "Tata Consultancy Services", "Graduate Trainee", "training", "Chennai", "career", "employment", "Ignite"]
+    },
+    {
+      "id": "ignite-training",
+      "category": "experience",
+      "title": "Ignite Technical Training",
+      "content": "As part of his training journey at TCS, Ajil participated in the Ignite training program. He learned and practiced technologies and concepts including MERN stack development, Java, Python, Angular, artificial intelligence, machine learning and DevOps. He completed two major projects during this training: SkillSync and Smart Warehouse and Procurement Management System. The training also involved practical software development and project-based learning.",
+      "keywords": ["Ignite", "TCS training", "MERN", "Java", "Python", "Angular", "AI", "machine learning", "DevOps", "training", "capstone", "incubator"]
+    },
+    {
+      "id": "skillcraft-internship",
+      "category": "experience",
+      "title": "SkillCraft Technology - Android Development Internship",
+      "content": "Ajil completed an Android Development internship with SkillCraft Technology from 1 April 2026 to 30 April 2026. This internship provided exposure to Android application development.",
+      "keywords": ["SkillCraft", "internship", "Android", "mobile development", "experience"]
+    },
+    {
+      "id": "technical-skills",
+      "category": "skills",
+      "title": "Technical Skills and Technologies",
+      "content": "Ajil has learned and worked with several technologies across software development. Programming languages include Java, Python, JavaScript and Go. Frontend technologies include React, Angular, HTML and CSS. Mobile development technologies include Flutter, Dart and Kotlin. Backend technologies and frameworks include Node.js, Django and FastAPI. Database technologies include MySQL, PostgreSQL and Firebase. His learning areas also include the MERN stack, artificial intelligence, machine learning, natural language processing, LLM integration, cloud concepts and DevOps. These technologies represent a combination of project experience and ongoing learning.",
+      "keywords": ["skills", "technical skills", "programming languages", "Java", "Python", "JavaScript", "Go", "React", "Angular", "Flutter", "Dart", "Kotlin", "Node.js", "Django", "FastAPI", "MySQL", "PostgreSQL", "Firebase", "MERN", "AI", "ML", "NLP", "cloud", "DevOps"]
+    },
+    {
+      "id": "career-interests",
+      "category": "career",
+      "title": "Career Interests and Goals",
+      "content": "Ajil is interested in becoming an AI and machine learning engineer, with particular interest in LLM engineering, Agentic AI, AI model integration and MCP-based systems. He is also interested in scalable backend development, cloud systems, full-stack engineering and mobile application development. He continuously works on improving his technical and problem-solving skills to become industry-ready and build useful software products.",
+      "keywords": ["career goals", "career interests", "AI engineer", "machine learning engineer", "LLM", "Agentic AI", "MCP", "backend", "cloud", "full stack", "future", "aspirations"]
+    },
+    {
+      "id": "skillsync",
+      "category": "project",
+      "title": "SkillSync - AI Learning Coach",
+      "content": "SkillSync was developed as part of the Ignite incubator project. It is designed to help users improve their interview performance. Its Learning Coach analyzes interview feedback, identifies weak areas, extracts improvement topics using AI models, and recommends relevant Udemy courses and personalized learning roadmaps from beginner to advanced levels. The frontend uses React.js and the backend uses Django. Ollama models communicate with MCP servers to enhance the Learning Coach. Ajil contributed as a Frontend Developer. The project was completed as part of the Ignite training journey. A public repository link has not been provided.",
+      "keywords": ["SkillSync", "AI", "Learning Coach", "React", "Django", "Ollama", "MCP", "Ignite", "frontend developer", "interview feedback", "Udemy", "learning roadmap"]
+    },
+    {
+      "id": "smart-warehouse",
+      "category": "project",
+      "title": "Smart Warehouse and Procurement Management System",
+      "content": "The Smart Warehouse and Procurement Management System was developed as part of the Ignite training program. It is a web application designed to organize warehouse and procurement workflows through role-based access. Different users have different responsibilities and can perform the operations assigned to their roles, reducing dependence on multiple spreadsheets and making procurement activities easier to manage. The frontend uses Angular. Ajil worked on this project as part of the Ignite training team.",
+      "keywords": ["Smart Warehouse", "Procurement", "Angular", "Ignite", "role based access", "warehouse management", "inventory", "management system"]
+    },
+    {
+      "id": "terrascope-app",
+      "category": "project",
+      "title": "TerraScope App",
+      "content": "TerraScope is a real-time environmental monitoring, weather insights and safety application. It provides weather information, environmental insights, alerts and anomaly-related features. The mobile application is built using Flutter and integrates APIs and cloud services. Its broader features include weather monitoring, air quality information, farmer recommendations, traveler insights, safety features and daily planning. The project is in active development. GitHub repository: https://github.com/ajilaries/TerraScope-APP",
+      "keywords": ["TerraScope", "TerraScope App", "Flutter", "weather", "environmental monitoring", "anomaly detection", "alerts", "air quality", "farmer", "traveler", "mobile application"]
+    },
+    {
+      "id": "terrascope-backend",
+      "category": "project",
+      "title": "TerraScope Backend",
+      "content": "The TerraScope Backend is the server-side component of the TerraScope application. It handles weather-related data processing, anomaly detection, API services, database operations and notification-related functionality. The project uses backend technologies and cloud integrations, with Python and API-based services in its implementation. It is in development. GitHub repository: https://github.com/ajilaries/terrascope-backend",
+      "keywords": ["TerraScope backend", "Python", "backend", "API", "weather data", "anomaly detection", "database", "notifications", "cloud"]
+    },
+    {
+      "id": "vibematch",
+      "category": "project",
+      "title": "VibeMatch",
+      "content": "VibeMatch is a smart matching platform focused on user profiles, matching experiences and real-time interactions. It is a full-stack application with a frontend and backend. Its development includes user authentication, profile management and real-time communication features. GitHub repository: https://github.com/ajilaries/VibeMatch",
+      "keywords": ["VibeMatch", "matching platform", "full stack", "profiles", "authentication", "real time", "chat", "mobile", "web"]
+    },
+    {
+      "id": "vibematch-backend",
+      "category": "project",
+      "title": "VibeMatch Backend",
+      "content": "The VibeMatch Backend provides server-side functionality for authentication, matching logic and API services. Its repository description lists Node.js, database technologies and REST APIs. GitHub repository: https://github.com/ajilaries/VibeMatch_backend",
+      "keywords": ["VibeMatch backend", "Node.js", "REST API", "authentication", "matching logic", "database", "backend"]
+    },
+    {
+      "id": "classconnect",
+      "category": "project",
+      "title": "ClassConnect",
+      "content": "ClassConnect is a private social platform designed for students. It supports posts, comments, file sharing, feedback and notifications. The application was developed using PHP, MySQL and JavaScript. Ajil lists the project as live. GitHub repository: https://github.com/ajilaries/Classconnect",
+      "keywords": ["ClassConnect", "PHP", "MySQL", "JavaScript", "student social platform", "posts", "comments", "file sharing", "notifications", "live project"]
+    },
+    {
+      "id": "workly",
+      "category": "project",
+      "title": "Workly",
+      "content": "Workly is a productivity-focused mobile and web application designed around task management and workflow management. The project is currently in progress. GitHub repository: https://github.com/ajilaries/Workly",
+      "keywords": ["Workly", "productivity", "task management", "workflow", "mobile", "web", "project"]
+    },
+    {
+      "id": "sentiment-analyzer",
+      "category": "project",
+      "title": "Sentiment Analyzer",
+      "content": "Sentiment Analyzer is a natural language processing project that analyzes text and classifies sentiment. Ajil is developing his understanding of text preprocessing, labelled datasets, feature extraction, machine learning model training and evaluation as part of this project. Its technologies include Python and NLP. GitHub repository: https://github.com/ajilaries/sentiment-analyzer",
+      "keywords": ["Sentiment Analyzer", "sentiment analysis", "NLP", "natural language processing", "Python", "machine learning", "text classification", "model training"]
+    },
+    {
+      "id": "focusflow",
+      "category": "project",
+      "title": "FocusFlow",
+      "content": "FocusFlow is a productivity application developed using Java. It focuses on task flow and improving personal work efficiency. Ajil lists this project as completed. GitHub repository: https://github.com/ajilaries/FocusFlow",
+      "keywords": ["FocusFlow", "Java", "productivity", "task flow", "efficiency", "completed project"]
+    },
+    {
+      "id": "go-calculator",
+      "category": "project",
+      "title": "Go Calculator",
+      "content": "Go Calculator is a modular calculator application built using the Go programming language. It includes a command-line interface version and a desktop user interface powered by Wails. Ajil lists this project as live. GitHub repository: https://github.com/ajilaries/Go-Calculator",
+      "keywords": ["Go Calculator", "Go", "Golang", "Wails", "CLI", "desktop application", "calculator", "live"]
+    },
+    {
+      "id": "go-task-api",
+      "category": "project",
+      "title": "Go Task API",
+      "content": "Go Task API is a task management REST API created as a learning project to understand Go backend development. It supports basic task management operations and explores API development, backend programming and web technologies. Its repository description lists Go, HTML, CSS and JavaScript. Ajil lists the project as in development. GitHub repository: https://github.com/ajilaries/go-task-api",
+      "keywords": ["Go Task API", "Go", "Golang", "REST API", "task manager", "backend", "HTML", "CSS", "JavaScript"]
+    },
+    {
+      "id": "certifications",
+      "category": "certification",
+      "title": "Certifications and Training Certificates",
+      "content": "Ajil has shared a certification in Mobile Application Development using Flutter and Kotlin. He has also completed the SkillCraft Technology Android Development internship and received an internship certificate. Additional certificates include communication participation and training-related recognition. Individual issuing organizations and certificate dates should be confirmed before publishing detailed credential claims.",
+      "keywords": ["certification", "certificates", "Flutter", "Kotlin", "mobile application development", "SkillCraft", "Android", "communication", "training"]
+    },
+    {
+      "id": "achievements",
+      "category": "achievement",
+      "title": "Awards and Achievements",
+      "content": "Ajil received the Ignite Above and Beyond Award in recognition of his contribution during the training journey. He has also received recognition related to communication participation. More details about the award criteria, dates and issuing organization can be added when available.",
+      "keywords": ["achievement", "achievements", "award", "Ignite", "Above and Beyond", "recognition", "communication"]
+    },
+    {
+      "id": "social-profiles",
+      "category": "social",
+      "title": "Ajil's Public Social and Developer Profiles",
+      "content": "Ajil's LinkedIn profile is https://www.linkedin.com/in/ajil-saji/. His GitHub profile is https://github.com/ajilaries. His Instagram profile is https://www.instagram.com/aju.aries/. Visitors can use these links to explore his professional updates, source code and public social profile.",
+      "keywords": ["social media", "social profiles", "LinkedIn", "GitHub", "Instagram", "contact", "developer profile", "portfolio"]
+    },
+    {
+      "id": "contact",
+      "category": "contact",
+      "title": "Contact and Professional Connections",
+      "content": "Visitors can connect with Ajil through LinkedIn at https://www.linkedin.com/in/ajil-saji/ or explore his software projects on GitHub at https://github.com/ajilaries. His Instagram profile is https://www.instagram.com/aju.aries/. A professional email address can be added when Ajil provides the address he wants to publish.",
+      "keywords": ["contact", "email", "connect", "hire", "collaboration", "LinkedIn", "GitHub", "Instagram"]
+    }
+  ]
+}

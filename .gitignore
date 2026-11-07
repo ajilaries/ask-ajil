@@ -1,0 +1,21 @@
+# Python
+.venv/
+**/.venv/
+__pycache__/
+**/__pycache__/
+*.pyc
+
+# Environment secrets
+.env
+**/.env
+
+# Node
+node_modules/
+**/node_modules/
+dist/
+**/dist/
+
+# Build and editor files
+.vscode/
+.idea/
+.vercel/
