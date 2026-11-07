@@ -16,16 +16,17 @@ app = FastAPI(
 # Allow our local React frontend to communicate
 app.add_middleware(
     CORSMiddleware,
+
     allow_origins=[
-        settings.frontend_origin,
+        "https://YOUR-VERCEL-DOMAIN.vercel.app",
         "http://localhost:5173",
         "http://127.0.0.1:5173"
     ],
+
     allow_credentials=False,
     allow_methods=["GET", "POST"],
     allow_headers=["Content-Type"]
 )
-
 
 @app.get("/api/health")
 def health_check():
