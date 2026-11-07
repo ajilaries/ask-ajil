@@ -5,10 +5,8 @@ import ChatMessage from "./ChatMessage";
 import ChatInput from "./ChatInput";
 import TypingIndicator from "./TypingIndicator";
 
-import { sendMessage } from "../services/ChatService";
-
+import { sendMessage } from "../services/chatService";
 import type { ChatMessage as ChatMessageType } from "../types/chat";
-
 
 const suggestions = [
     "Tell me about Ajil",
