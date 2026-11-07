@@ -18,7 +18,8 @@ app.add_middleware(
     CORSMiddleware,
 
     allow_origins=[
-        "https://YOUR-VERCEL-DOMAIN.vercel.app",
+        "https://ask-ajil-y6bq.vercel.app",
+        "https://ask-ajil.vercel.app",
         "http://localhost:5173",
         "http://127.0.0.1:5173"
     ],
